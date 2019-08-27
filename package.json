@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/HeskeyBaozi/little-react",
-  "author": "HeZhiyu <zhiyuhe@sfmail.sf-express.com>",
+  "author": "HeskeyBaozi <hezhiyu233@foxmail.com>",
   "license": "MIT",
   "scripts": {
     "pretty": "prettier src/**/*.* --write",
