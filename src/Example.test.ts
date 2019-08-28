@@ -14,7 +14,7 @@ describe('Array', function() {
     it('should return -1 when the value is not present', () => {
       const minusOne = -1,
         two = 2;
-      assert.ok(ary.indexOf(two) === minusOne, 'THIS IS AN ASSERTION MESSAGE');
+      assert(ary.indexOf(two) === minusOne);
     });
   });
 });
